@@ -10,3 +10,6 @@
 ## Image
 1. https://www.svgrepo.com/ : All kind of image icon
 2. Generate images with prompt https://www.lovart.ai/home
+
+## Youtube
+1. https://www.study.lol/<youtube.com/....>
