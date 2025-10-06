@@ -18,5 +18,5 @@
 https://reactbits.dev/
 
 ## Tool
-https://seostudio.tools/
-https://www.toolfk.com/
+1. https://seostudio.tools/ : txt, pdf, img
+2. https://www.toolfk.com/
